@@ -1,0 +1,39 @@
+{
+  "lieux": [
+    {
+      "id": "tour_hassan",
+      "nom": "Tour Hassan",
+      "ville": "Rabat",
+      "histoire": "La Tour Hassan est le minaret inachevé d'une mosquée almohade gigantesque commandée par le Sultan Yacoub al-Mansour en 1195. Avec ses 44 mètres, elle devait atteindre 86 mètres. La mort du Sultan en 1199 arrêta les travaux. Elle est aujourd'hui le symbole de Rabat.",
+      "images": ["tour_hassan/tourhassan1.jpg", "tour_hassan/tourhassan2.jpg"]
+    },
+    {
+      "id": "volubilis",
+      "nom": "Volubilis",
+      "ville": "Meknès (région)",
+      "histoire": "Volubilis est une ancienne cité berbère et romaine partiellement fouillée. Capitale du royaume de Maurétanie, elle atteint son apogée au IIe et IIIe siècles. Inscrite au patrimoine mondial de l'UNESCO depuis 1997.",
+      "images": ["volubilis/volubilis1.jpg", "volubilis/Volubilis-Morocco-Feature-960x540.jpg"]
+    },
+    {
+      "id": "cascades_sefrou",
+      "nom": "Cascades de Sefrou",
+      "ville": "Sefrou",
+      "histoire": "Les cascades de Sefrou, situées à 28 km de Fès, se forment grâce à l'oued Aggaï traversant les gorges de la médina. La ville de Sefrou est l'une des plus anciennes cités du Maroc avec une histoire remontant au IXe siècle.",
+      "images": ["cascades_sefrou/cascade.jpg"]
+    },
+    {
+      "id": "ait_benhaddou",
+      "nom": "Aït Benhaddou",
+      "ville": "Ouarzazate (région)",
+      "histoire": "Aït Benhaddou est un ksar exceptionnel situé le long de l'ancienne route caravanière entre le Sahara et Marrakech. Inscrit à l'UNESCO en 1987, il a servi de décor à de nombreuses productions cinématographiques mondiales.",
+      "images": ["ait_benhaddou/site_0444_0001-750-750-20151105144227.jpg"]
+    },
+    {
+      "id": "medersa_bou_inania",
+      "nom": "Medersa Bou Inania",
+      "ville": "Fès",
+      "histoire": "La Medersa Bou Inania est une école coranique mérinide construite entre 1351 et 1356 par le Sultan Abou Inan Faris. Chef-d'œuvre de l'architecture hispano-mauresque, elle est la seule medersa de Fès à fonctionner comme mosquée.",
+      "images": ["medersa_bou_inania/medrasa.jpg", "medersa_bou_inania/que-faire-a-fes-medersa-bou-inania.jpeg"]
+    }
+  ]
+}
